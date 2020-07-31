@@ -1,0 +1,2 @@
+# tesztrepository
+repository github tesztre
